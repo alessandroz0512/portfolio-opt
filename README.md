@@ -159,17 +159,17 @@ The goal is to explore **portfolio optimization under different constraints and 
 
 - Conditional Beta Long-Only:
 
-![Conditional Beta Pie Chart](path_to_conditional_pie_chart.png)
+![Conditional Beta Pie Chart](long-only-allocations.png)
 
-- Standard Beta Long-Only:
+- Conditional Beta Long/short:
 
-![Standard Beta Pie Chart](path_to_standard_pie_chart.png)
+![Standard Beta Pie Chart](long-short-allocations.png)
 
 ### Portfolio Value Over Time
 
 - Simulated portfolio evolution (weekly and monthly rebalancing) vs S&P 500 benchmark.
 
-![Portfolio Tracker](path_to_portfolio_tracker_plot.png)
+![Portfolio Tracker](performance-overtime.png)
 
 ### Stock Prices Over Time
 
