@@ -165,12 +165,6 @@ The goal is to explore **portfolio optimization under different constraints and 
 
 ![Standard Beta Pie Chart](path_to_standard_pie_chart.png)
 
-### Sharpe vs Down-Beta Weight
-
-- Sharpe ratios across different down-beta weight `w` values.
-
-![Sharpe vs Down-Beta Weight](path_to_sharpe_plot.png)
-
 ### Portfolio Value Over Time
 
 - Simulated portfolio evolution (weekly and monthly rebalancing) vs S&P 500 benchmark.
