@@ -173,7 +173,7 @@ The goal is to explore **portfolio optimization under different constraints and 
 
 ### Stock Prices Over Time
 
-![Stock Prices](path_to_stock_prices_plot.png)
+![Stock Prices](stock-prices.png)
 
 ---
 
